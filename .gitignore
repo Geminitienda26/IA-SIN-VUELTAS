@@ -1,11 +1,8 @@
+# Credentials and Secrets
+.env
+credenciales.txt
+secrets/
+*.key
+
+# Other ignores
 node_modules/
-.DS_Store
-.gemini/
-.agents/
-.agent/
-_agents/
-_agent/
-brain/
-*.log
-dist/
-build/
