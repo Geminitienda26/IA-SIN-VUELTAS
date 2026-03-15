@@ -1,0 +1,35 @@
+### COPY PARA LINKEDIN (UPDATE MARZO 2026)
+
+**Título: ¿IA Generativa en hardware de 2012? La eficiencia como estrategia de ROI**
+
+Muchos creen que para ejecutar modelos de lenguaje (LLMs) se necesita una granja de servidores o la última GPU de $10 millones. En #IAsinVueltas estamos demostrando lo contrario.
+
+Desde nuestra HP Envy 2012 en Barranquilla, estamos ejecutando modelos como **Phi-3 Mini** y **TinyLlama** de forma local. No es para chatear en tiempo real, es para automatizar flujos de trabajo críticos de forma privada y sin costos de suscripción, mientras generamos los **$7.150.000 COP** necesarios para nuestra próxima RTX 5080.
+
+**Optimizaciones clave:**
+- **SSD de 1TB:** Crucial para la carga de modelos de 3.8B parámetros.
+- **16GB DDR3:** El mínimo viable para estabilidad operativa en 2026.
+- **Local AI Workflow:** Procesamiento en segundo plano para análisis de datos de afiliados.
+
+La verdadera innovación no es tener el hardware más caro, sino extraer el 100% de valor del que ya tienes. 
+
+#IAsinVueltas #LocalAI #EfficiencyFirst #LowCostTech #BarranquillaTech #Ollama
+
+---
+
+### COPY PARA INSTAGRAM / TIKTOK (UPDATE MARZO 2026)
+
+**¡Tu PC vieja corre IA! 🤖💻 De 2012 a la RTX 5080**
+
+¿Pensabas que tu laptop vieja solo servía para abrir Excel? ¡Error! Estamos corriendo **Inteligencia Artificial Local** en una HP de hace 14 años. ⚡
+
+Estamos usando modelos como TinyLlama para automatizar nuestro negocio de afiliados y alcanzar esos **$7.15M COP** para la RTX 5080. 
+
+**¿Cómo lo hicimos?**
+🚀 SSD Samsung 870 EVO + 16GB de RAM.
+🚀 Ollama para correr modelos sin internet.
+🚀 Una meta clara: Hardware viejo = Dinero nuevo.
+
+Si quieres saber qué modelos puedes correr en TU cafetera, comenta "IA LOCAL" y te mando mi lista de recomendados. 📥
+
+#IAsinVueltas #SideHustle #IAenEspanol #TechHacks #Barranquilla #AhorroInteligente #RTX5080
