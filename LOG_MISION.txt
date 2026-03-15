@@ -1,14 +1,12 @@
-LOG DE MISIÓN 07 - COMPLETADO
+LOG DE MISIÓN 08 - AUDITORÍA DE HARDWARE
 
 Fecha: 15 de Marzo de 2026
-Estado: EXITOSO (SITIO WEB EN VIVO)
+Estado: ESPECIFICACIONES CORREGIDAS
 
 ACCIONES REALIZADAS:
-1. Automatización CI/CD: Configurado GitHub Actions para despliegue automático de la carpeta 'web/'.
-2. Hosting Gratuito: Activado GitHub Pages para el dominio del proyecto.
-3. Documentación Oficial: Actualizado README.md con la URL pública y el stack tecnológico.
-
-URL EN VIVO: https://geminitienda26.github.io/IA-SIN-VUELTAS/
+1. Auditoría de Sistema: Ejecutado 'cat /proc/cpuinfo' y 'lsblk' para verificar specs reales.
+2. Identificación: Confirmado Intel i5-3317U (Ivy Bridge) y SSD de 480GB KingSpec.
+3. Propagación: Actualizados README.md, index.html y guia_revivir_pc.md con la información técnica exacta.
 
 INFORME DEL COO:
-El ecosistema digital está completo. Tenemos una landing page profesional funcionando en un servidor gratuito, gestionada automáticamente desde este hardware de 2012. El proyecto #IAsinVueltas ha pasado de ser una idea local a una marca global activa.
+La transparencia técnica es clave para la autoridad de marca. Aunque el i5-3317U tiene menos núcleos que el i7 supuesto, su capacidad para ejecutar IA local (TinyLlama) sigue siendo el núcleo de nuestra propuesta de valor. La misión de los $7.15M continúa sin cambios.

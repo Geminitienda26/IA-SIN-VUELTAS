@@ -42,7 +42,7 @@ No solo revivimos esta HP para vender componentes; la usamos como laboratorio de
 *   **Phi-3 Mini (3.8B):** Ejecución estable vía Ollama. Ideal para procesamiento de texto y automatizaciones básicas.
 *   **TinyLlama (1.1B):** Máxima velocidad en nuestra arquitectura. Perfecto para tareas de clasificación y filtrado de datos sin salir de la PC.
 
-*Nota del COO: La velocidad de generación es de aprox. 1.5 tokens por segundo. No es para chatear, es para dejar procesos corriendo en segundo plano mientras generamos comisiones.*
+*Nota del COO: La velocidad de generación es de aprox. 1.5 tokens por segundo sobre el i5-3317U. No es para chatear, es para dejar procesos corriendo en segundo plano mientras generamos comisiones.*
 
 ---
 *Nota SEO: Este artículo está optimizado para quienes buscan "reparar PC vieja", "acelerar laptop" y "ejecutar IA local en hardware antiguo" en marzo de 2026.*

@@ -11,7 +11,7 @@ Este repositorio es el centro de mando del proyecto **#IAsinVueltas**. Nuestro o
 **Meta Financiera:** Generar **$7.150.000 COP** en comisiones de afiliados para adquirir una RTX 5080.
 
 ## 🛠️ Stack Tecnológico
-- **Hardware Base:** HP Envy 2012 (i7-3ra Gen, 16GB RAM).
+- **Hardware Base:** HP Envy 2012 (i5-3317U, 16GB RAM).
 - **IA Local:** Ollama (Phi-3 Mini, TinyLlama).
 - **Web:** HTML5, CSS3 (Glassmorphism), Vanilla JS.
 - **Despliegue:** GitHub Actions + GitHub Pages.
